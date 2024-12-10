@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Selenium Java
 - 💞️ I’m looking to collobrate with innovative skilled people
 - 📫 How to reach me saraswati.attili@gmail.com
-- ⚡ Fun fact: Life goes on
+- ⚡ Fun fact: Life goes on 
 
 <!---
 Saraswati5/Saraswati5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
